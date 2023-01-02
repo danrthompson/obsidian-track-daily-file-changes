@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "obsidian-track-daily-file-changes",
+	"version": "0.1.0",
+	"description": "This plugin tracks all created, modified, and deleted files per day, and also tracks how many characters were modified per day.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
